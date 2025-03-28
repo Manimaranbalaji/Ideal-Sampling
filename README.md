@@ -2,7 +2,6 @@
 ## Aim:
   To demonstrate the sampling and reconstruction of a continuous-time signal using Python.
 ## Tools required:
-+ Personal Computer with scilab
 + Python IDE (Numpy)
 ## Program:
 ``` 
